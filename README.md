@@ -1,6 +1,6 @@
 # Langchain Learning Project
 
-This project contains a series of Jupyter notebooks that demonstrate various concepts and techniques for working with Langchain and the OpenAI API.
+This project contains a series of Jupyter notebooks that demonstrate various concepts and techniques for working with Langchain, including prompt templates, chat models, output parsers, and integration with the OpenAI API.
 
 ## Notebooks
 
@@ -8,6 +8,13 @@ This project contains a series of Jupyter notebooks that demonstrate various con
 - [Learning Langchain.ipynb](Learning%20Langchain.ipynb): Further exploration of Langchain.
 - [The openai api.ipynb](The%20openai%20api.ipynb): Working with the OpenAI API.
 - [classifier.ipynb](classifier.ipynb): Building a classifier using Langchain and OpenAI.
+- [Chat prompt templates and chat prompt values.ipynb](Chat%20prompt%20templates%20and%20chat%20prompt%20values.ipynb): Working with chat prompt templates and values.
+- [FewShotChatMessagePromptTemplate.ipynb](FewShotChatMessagePromptTemplate.ipynb): Demonstrating few-shot chat message prompt templates.
+- [Few shot chat message prompt templates.ipynb](Few%20shot%20chat%20message%20prompt%20templates.ipynb): Additional examples of few-shot chat message prompt templates.
+- [prompt templates and prompt values.ipynb](prompt%20templates%20and%20prompt%20values.ipynb): Working with prompt templates and their values.
+- [System and Human Messages.ipynb](System%20and%20Human%20Messages.ipynb): Understanding system and human messages in Langchain.
+- [csv parser.ipynb](csv%20parser.ipynb): Parsing CSV files using Langchain.
+- [string output parser.ipynb](string%20output%20parser.ipynb): Working with string output parsers.
 
 ## Requirements
 
