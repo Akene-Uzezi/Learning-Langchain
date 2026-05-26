@@ -8,7 +8,7 @@ git commit -m "$commit_message"
 
 read -p "Do you want to push? (y/n): " push
 
-if[ "$push" = "y" ]; then
+if [ "$push" = "y" ]; then
     echo "pushing changes"
     git push
     clear
